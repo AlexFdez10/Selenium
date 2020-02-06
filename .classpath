@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/CucumberReports/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/CucumberReports/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/CucumberReports/cucumber-extentsreport-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/CucumberReports/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/CucumberReports/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/CucumberReports/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/CucumberReports/cucumber-reporting-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/CucumberReports/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/CucumberReports/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/CucumberReports/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/CucumberReports/gson-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/CucumberReports/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/CucumberReports/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/CucumberReports/mongo-java-driver-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/Selenium_Eclipse/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/Selenium_Eclipse/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/Selenium_Eclipse/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/Selenium_Eclipse/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/Selenium_Eclipse/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/Selenium_Eclipse/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usuario/Documents/Selenium_Eclipse/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
